@@ -1,7 +1,7 @@
 # GCP Practice Project
 
 ## Infrastracture Preview
-![Infratrcture](Screenshots\infrastracture.png)
+![Infratrcture](screenshots\infrastracture.png)
 
 ## Console and Cloud Shell
-![Console](Screenshots\Console.png)
+![Console](screenshots\Console.png)
