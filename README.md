@@ -8,3 +8,16 @@
 
 ## VPC networking
 ![vpc_networking](screenshots/vpc_networking.png)
+
+## Implementing Private Google access and Cloud NAT
+![cloudNAT](screenshots/cloudNAT)
+
+## Creating Virtual Machines
+![creatingvms](screenshots/creatingvms.png)
+
+## Cloud IAM
+![cloudIAM](screenshots/cloudIAM.png)
+
+## Implementing Cloud SQL
+![cloudSQL](screenshots/cloudSQL.png)
+
