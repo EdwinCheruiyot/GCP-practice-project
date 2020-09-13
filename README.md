@@ -15,6 +15,9 @@
 ## Creating Virtual Machines
 ![creatingvms](screenshots/creatingvms.png)
 
+## Working with VMs
+![workingvms](screenshots/workingvms.png)
+
 ## Cloud IAM
 ![cloudIAM](screenshots/cloudIAM.png)
 
