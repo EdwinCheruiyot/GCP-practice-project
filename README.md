@@ -10,7 +10,7 @@
 ![vpc_networking](screenshots/vpc_networking.png)
 
 ## Implementing Private Google access and Cloud NAT
-![cloudNAT](screenshots/cloudNAT)
+![cloudNAT](screenshots/cloudNAT.png)
 
 ## Creating Virtual Machines
 ![creatingvms](screenshots/creatingvms.png)
