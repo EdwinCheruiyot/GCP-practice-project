@@ -27,3 +27,5 @@
 ## Implementing Cloud SQL
 ![cloudSQL](screenshots/cloudSQL.png)
 
+## Examining Billing data with BigQuery
+![billing](screenshots/billing.png) 
