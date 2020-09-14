@@ -21,6 +21,9 @@
 ## Cloud IAM
 ![cloudIAM](screenshots/cloudIAM.png)
 
+## Cloud Storage
+![cloud_storafe](screenshots/cloud_storage.png)
+
 ## Implementing Cloud SQL
 ![cloudSQL](screenshots/cloudSQL.png)
 
